@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/bottomnav_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/gradient.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/gradient_characterselect.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/ic_arrow_left.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/ic_icon.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/ic_lock.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/ic_user.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/rounded.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/drawable/roundedloginbutton.xml" value="0.2203125" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_character_creation.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_character_select.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_characterimage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_charactername.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_funcions.xml" value="0.22" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_loginscreen.xml" value="0.25" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_registerscreen.xml" value="0.22" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_settingspage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/fragment_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/layout/slider_item_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/RodsRpg/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

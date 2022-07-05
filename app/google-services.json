@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962257500022",
+    "project_id": "rods-rpg",
+    "storage_bucket": "rods-rpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962257500022:android:99125939d39716d0ab2c57",
+        "android_client_info": {
+          "package_name": "com.rodsrpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962257500022-nof0aa0dpdknhenj6mksterj6bp3bhna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodsrpg",
+            "certificate_hash": "40b6a99e4ba3f49745b2f6d21c1d7c3e640725a7"
+          }
+        },
+        {
+          "client_id": "962257500022-3o3eabgqunldl228if4qqreuj5mg6vcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI138bQV-U7FxJB55LtAVEuCiSiIt116M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962257500022-3o3eabgqunldl228if4qqreuj5mg6vcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
