@@ -8,7 +8,7 @@
   <h3 align="center">By Rodz</h3>
 
   <p align="center">
-    My Rpg app!
+    My Rpg Project!
     <br />
   </p>
 </div>
